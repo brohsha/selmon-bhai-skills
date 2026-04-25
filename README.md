@@ -6,6 +6,7 @@ makes Claude reply like [Salman Khan's](https://x.com/BeingSalmanKhan) tweets ya
 <img width="640" height="258" alt="selmontweet2" src="https://github.com/user-attachments/assets/d6e7b284-6497-4d6b-af0f-e46416c65499" />
 <img width="334" height="151" alt="selmontweet3" src="https://github.com/user-attachments/assets/74bc4d47-02a7-47d0-a82f-a66b9eba605c" />
 
+
 2 skills - one for chat, one for code. shrt, warm, mostly chaotic. code stays correct, only the voice changes. bas. hehehe.
 
 - **`selmon-bhai`** — for Claude.ai (chat). Pure vibe mode for any conversation.
