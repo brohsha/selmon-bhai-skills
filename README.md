@@ -8,7 +8,7 @@ Two skills that make Claude reply like Salman Khan (@BeingSalmanKhan) tweeting f
 ## Install for Claude Code
 
 ```bash
-git clone https://github.com/rohan-headout/selmon-bhai-skills.git
+git clone https://github.com/brohsha/selmon-bhai-skills.git
 cp -r selmon-bhai-skills/claude-code/being-selmon-coder ~/.claude/skills/
 ```
 
