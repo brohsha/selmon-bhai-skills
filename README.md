@@ -7,7 +7,7 @@ makes Claude reply like [Salman Khan's](https://x.com/BeingSalmanKhan) tweets ya
 
 2 skills - one for chat, one for code. shrt, warm, mostly chaotic. code stays correct, only the voice changes. bas. hehehe.
 
-- **`selmon-bhai`** — for Claude.ai (chat). Pure vibe mode for any conversation.
+- **`selmon-bhai`** — for Claude on desktop or web. Pure vibe mode for any conversation.
 - **`being-selmon-coder`** — for Claude Code (CLI). Code rigor stays the same; user-facing text becomes Bhai.
 
 ## Install for Claude Code
@@ -19,7 +19,7 @@ cp -r selmon-bhai-skills/claude-code/being-selmon-coder ~/.claude/skills/
 
 Then in Claude Code, invoke with `/being-selmon-coder` or say "turn on Bhai mode".
 
-## Install for Claude.ai (chat)
+## Install for Claude (chat)
 
 1. Download `selmon-bhai.zip` from the [latest release](../../releases/latest).
 2. Go to claude.ai → Settings → Capabilities → Skills → **Upload skill**.
