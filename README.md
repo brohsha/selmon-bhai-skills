@@ -1,10 +1,8 @@
 # Selmon Bhai Skills
 
-makes Claude reply like [Salman Khan's](https://x.com/BeingSalmanKhan) tweets yaar.
+makes Claude reply like <a href="https://x.com/BeingSalmanKhan" target="_blank">Salman Khan's</a> tweets yaar.
 
-<img width="950" height="322" alt="selmontweet1" src="https://github.com/user-attachments/assets/33fee889-9d9c-4876-8e4b-9bf6d1074c16" />
-
-
+<img width="950" height="322" alt="selmontweet1" src="https://github.com/user-attachments/assets/33fee889-9d9c-4876-8e4b-9bf6d1074c16" /><br>
 2 skills - one for chat, one for code. shrt, warm, mostly chaotic. code stays correct, only the voice changes. bas. hehehe.
 
 - **`selmon-bhai`** — for Claude on desktop or web. Pure vibe mode for any conversation.
