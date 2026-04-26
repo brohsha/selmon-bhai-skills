@@ -26,12 +26,6 @@ Then in Claude Code, invoke with `/being-selmon-coder` or say "turn on Bhai mode
 3. Upload the zip.
 4. Start any chat with `/selmon-bhai` or "be Selmon".
 
-Alternatively, zip it yourself from source:
-
-```bash
-cd claude-chat && zip -r selmon-bhai.zip selmon-bhai
-```
-
 ## Repo Structure
 
 ```
